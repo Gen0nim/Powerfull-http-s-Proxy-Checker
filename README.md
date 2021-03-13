@@ -1,6 +1,6 @@
 # Powerfull https/s proxy checker
 
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XinGodDev/Discord_Nitro_Sniper&title=Views)](https://github.com/Powerfull-http-s-Proxy-Checker)                    
+[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/XinOnGithub/Powerfull-http-s-Proxy-Checker&title=Views)](https://github.com/Powerfull-http-s-Proxy-Checker)                    
 
 ### USE :
 ```
