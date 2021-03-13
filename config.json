@@ -1,0 +1,6 @@
+{
+    "Threads": 500,
+    "Timeout": 1,
+    "Website": "https://www.google.com/",
+    "Console_Details": "True"
+}
