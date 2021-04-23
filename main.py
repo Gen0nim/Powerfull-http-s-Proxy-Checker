@@ -2,7 +2,7 @@
 #By XinOnGithub
 #https://www.youtube.com/channel/UC-8t8_KCMoX5YpjbivyeIYQ
 
-import requests, json, sys, time
+import requests, json, time
 from threading import Thread,active_count
 from colorama import Fore, init, Style
 from os import system, name
